@@ -1,0 +1,11 @@
+// count digits in a number. (while ,do while , for loop)
+#include<stdio.h>
+int main(){
+
+    int num;
+
+    printf("Enter NUmber :- ");
+    scanf("%d",&num);
+
+    return 0;
+}

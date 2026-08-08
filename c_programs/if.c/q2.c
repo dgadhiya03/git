@@ -1,0 +1,19 @@
+// 2. W.a.p check number even or odd
+
+#include<stdio.h>
+
+int main()
+{
+    int num;
+
+    printf("Enter Your Number : ");
+    scanf("%d",&num);
+
+    if (num % 2 == 0)
+    {
+        printf("Even");
+    }else{
+        printf("Odd");
+    }
+    return 0;
+}
